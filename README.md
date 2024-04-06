@@ -9,12 +9,16 @@
     -Navega al directorio donde deseas guardar la aplicación.
 
     -Ejecuta el siguiente comando para clonar el repositorio:
-
+     ```
+   git clone https://github.com/DerlyYanneth/Prototipo2
+     ```
 3. Abrir la Aplicación en el Navegador:
 
 Ve al directorio del repositorio clonado:
-
--Encuentra el archivo index.html y ábrelo en tu navegador web.
+  ```
+cd prototipo2
+  ```
+-Encuentra el archivo `index.html` y ábrelo en tu navegador web.
 # Funcionalidades Implementadas:
 1.   **Botón iniciar:** Da clic al botón y iniciarás la búsqueda
 2. **Búsqueda por nombre:** Busca información sobre un Pokémon específico ingresando su nombre en el campo de búsqueda de texto, luego clic al botón "Buscar".  
